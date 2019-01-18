@@ -1,18 +1,20 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 
-<widget xmlns = "http://www.w3.org/ns/widgets" com.demoApp" version = "1.0">
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
    
-   <name>dempPhoneGap</name>
+   <name>Tutorials Point</name>
    
    <description>
-      testing PhoneGap
+      Tutorials Point Online Viewer
    </description>
    
-   <author href = "http://tutorialspoint.com" email = "deeptanshu.goel@soprsteria.com	">
+   <author href = "http://tutorialspoint.com" email = "contact@tutorialspoint.com">
       Tutorials Point
    </author>
    
    <preference name = "permissions" value = "none"/>
-  
+   
+   
    
 </widget>
